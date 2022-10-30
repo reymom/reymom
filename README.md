@@ -8,9 +8,9 @@
 </div>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reymom&count_private=true&hide=jupyter%20notebook,css,shell,javascript,html,roff,mako&layout=compact&count_private=true&theme=tokyonight&langs_count=8" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reymom&count_private=true&hide=jupyter%20notebook,css,shell,javascript,html,roff,mako&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=personal_web_page,Minority-Game,Football-Bets-Predictor,odoo_my_addons,Option-pricing-on-assets,Axelrod-Model,Information-cascades-in-complex-social-networks,Model-of-antigen-discrimination,City-Roads-Analysis" />
 </a>
 <a href="#">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=reymom&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=gruvbox&show_icons=true&line_height=45&card_width=50&exclude_repo=github-readme-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=reymom&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=gruvbox&show_icons=true&line_height=45&card_width=50" />
 </a>
