@@ -48,7 +48,9 @@
   <a href="https://github.com/reymom">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reymom&theme=transparent" />
   </a>
-  <a href="https://github.com/reymom">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reymom&count_private=true&hide=jupyter%20notebook,css,shell,javascript,html,roff,mako&layout=compact&theme=transparent&langs_count=8&exclude_repo=personal_web_page,Minority-Game,Football-Bets-Predictor,odoo_my_addons,Option-pricing-on-assets,Axelrod-Model,Information-cascades-in-complex-social-networks,Model-of-antigen-discrimination,City-Roads-Analysis" />
+</p>
+<p align="center">
+    <a href="https://github.com/reymom">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reymom&count_private=true&hide=jupyter%20notebook,css,shell,javascript,html,roff,mako&layout=compact&theme=transparent&langs_count=8&exclude_repo=personal_web_page,Minority-Game,Football-Bets-Predictor,odoo_my_addons,Option-pricing-on-assets,Axelrod-Model,Information-cascades-in-complex-social-networks,Model-of-antigen-discrimination,City-Roads-Analysis" />
   </a>
 </p>
