@@ -21,20 +21,9 @@ Physicist (Complex Systems MSc) turned **Rust/Go crypto systems engineer**. I bu
 - Rust / Protocol Engineering / ZK Infra / Onchain Systems roles
 
 ## Contact
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/ramon-marc-garcia-seuma/">
-        <img alt="Reymom's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://x.com/0xReymon">
-        <img alt="Reymon's X" src="https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray"/>
-    </a>
-    <a href="mailto:ramongs237@gmail.com">
-        <img alt="Reymom's email" src="https://img.shields.io/badge/Email-blue?style=plastic&logo=gmail&logoColor=white">
-    </a>
-</p>
-
-<br><br>
+- Email: reymon.devs@gmail.com  
+- X: [@0xReymon](https://x.com/0xReymon)
+- LinkedIn: [ramon-marc-garcia-seuma](https://www.linkedin.com/in/ramon-marc-garcia-seuma)
 
 <p align="center">
   <a href="https://github.com/reymom">
