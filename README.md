@@ -1,38 +1,39 @@
 # Reymom
 
-Physicist (Complex Systems MSc) turned **Rust/Go crypto systems engineer**. I build protocol infrastructure (cross-chain settlement, on/off-ramps) and research-driven cryptography labs (ZK / verifiers / TEE attestation).
+Physicist (MSc in Complex Systems) who has been in software for around seven years, mostly backend and systems engineering in Go and Rust. My way into security was cryptography, and these days most of my time goes into measuring how real systems behave.
 
 ## Now
-- Shipping a **Rust Solana trading/MEV bot v0** (execution + metrics)
-- Weekly **ZK study sprints** with Rust mini-labs + writeups
+
+- Running a **DarkFi node and miner on a Raspberry Pi**, measuring memory and allocator behaviour for a talk at **DARK Prague (2–4 Oct 2026)**. Live panel: [reymom.xyz/darknode](https://www.reymom.xyz/darknode)
+- Contributing upstream: first PR merged in [matrix-rust-sdk (#7109)](https://github.com/matrix-org/matrix-rust-sdk/pull/7109)
+- Working through the Linux trust boundaries one mechanism at a time, and writing down what I break
 
 ## Featured
-- **icRamp (ICP Chain Fusion)** — multichain on/off-ramp across BTC/EVM/Solana/ICP: https://github.com/reymom/ic2P2ramp
-- **TEE Auction Coprocessor Lab** — SGX/attestation-inspired lab: https://github.com/reymom/tee-auction-lab
-- **Baby Ligero Lab** — tests + soundness amplification experiments: https://github.com/reymom/ligero-mini-lab
-- **LatticeFold Norm Blowup Lab**: https://github.com/reymom/norm-blowup
-- **Unite DeFi ICP (Fusion-style)**: https://github.com/reymom/Unite-DeFi-ICP
-- **Minority Game (MSc thesis)**: https://github.com/reymom/Minority-Game
+
+- **[coldcascade](https://github.com/reymom/coldcascade)**: a maker on 1inch Aqua that reads Hyperliquid's order book inside the swap. 2nd place in 1inch's Build an Aqua App at ETHOnline 2026 ([writeup](https://www.reymom.xyz/blog/hackathons/2026-09-21-ethonline-coldcascade))
+- **[darknode-exporter](https://github.com/reymom/darknode-exporter)**: push-only telemetry for a node on systemd services and timers
+- **[dag_exec](https://crates.io/crates/dag_exec)**: task-graph execution for CPU-bound pipelines with bounded parallelism and backpressure ([repo](https://github.com/reymom/rust-dag-executor))
+- **[icRamp](https://github.com/reymom/ic2P2ramp)**: multichain on/off ramp across BTC, EVM, Solana and ICP, built under three DFINITY grants
+- **Cryptography labs**, reproduced from papers: [ligero-mini-lab](https://github.com/reymom/ligero-mini-lab) · [norm-blowup](https://github.com/reymom/norm-blowup) · [ultrafold-micro](https://github.com/reymom/ultrafold-micro)
+- **Research**: liquidation cascades in crypto perps, [arXiv:2607.27070](https://arxiv.org/abs/2607.27070) and [arXiv:2608.03616](https://arxiv.org/abs/2608.03616)
 
 ## Writing
-- Cryptography research notes + labs: https://www.reymom.xyz/blog/cryptography
 
-## Open to
-- Rust / Protocol Engineering / ZK Infra / Onchain Systems roles
-
-## Contact
-- Email: reymon.devs@gmail.com  
-- X: [@0xReymon](https://x.com/0xReymon)
-- LinkedIn: [ramon-marc-garcia-seuma](https://www.linkedin.com/in/ramon-marc-garcia-seuma)
+[reymom.xyz/blog](https://www.reymom.xyz/blog): systems, security, cryptography and measurement.
 
 <p align="center">
-  <a href="https://github.com/reymom">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reymom&theme=transparent" />
-  </a>
-  <a href="https://github.com/reymom">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reymom&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/reymom">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reymom&theme=transparent" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reymom&theme=github_dark" />
+    <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reymom&theme=github" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=reymom&theme=github-dark-blue&hide_border=true&disable_animations=true" />
+    <img alt="GitHub streak" height="180" src="https://streak-stats.demolab.com/?user=reymom&theme=default&hide_border=true&disable_animations=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reymom&theme=github_dark" />
+    <img alt="GitHub stats" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reymom&theme=github" />
+  </picture>
 </p>
