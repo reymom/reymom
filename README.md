@@ -4,8 +4,8 @@ Physicist (MSc in Complex Systems) who has been in software for around seven yea
 
 ## Now
 
-- Running a **DarkFi node and miner on a Raspberry Pi**, measuring memory and allocator behaviour for a talk at **DARK Prague (2–4 Oct 2026)**. Live panel: [reymom.xyz/darknode](https://www.reymom.xyz/darknode)
 - Building execution for perp strategies and onchain makers in Rust, with live funding and basis positions reconciled against each venue's own ledger, and makers that price from the order book instead of a stale curve
+- Running a **DarkFi node and miner on a Raspberry Pi**, measuring memory and allocator behaviour. Live panel: [reymom.xyz/darknode](https://www.reymom.xyz/darknode)
 - Working through the Linux trust boundaries one mechanism at a time, and writing down what I break
 
 ## Featured
